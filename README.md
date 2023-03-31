@@ -24,7 +24,7 @@ python3 CLIbypass.py
 
 ```
 
-4. Follow the on-screen instructions to interact with ChatGPT. Type your text and finish with 'END' on a new line to submit. Type 'exit' to quit the program.
+4. Follow the on-screen instructions to interact with ChatGPT. Type your text and finish with 'END' on a new line to submit. Type 'ctrl-c' to quit the program.
 
 
 ### Log File
